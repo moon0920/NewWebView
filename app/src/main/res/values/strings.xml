@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewWebView</string>
+    <string name="editTextUrl">주소를 넣어주세요</string>
+    <string name="btnSearch">Search</string>
+</resources>
